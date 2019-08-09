@@ -1,4 +1,4 @@
-[{
+export default [{
   "name": "MongoDB",
   "url": "https://www.mongodb.com/"
 },

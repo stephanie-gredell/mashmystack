@@ -1,0 +1,62 @@
+/*
+Theme Name: Mash My Stack
+Theme URI: https://botega.co.uk
+Author: Tonino Jankov
+Author URI: https://botega.co.uk
+Description: Basic WordPress theme for Sitepoint theme building tutorial
+Text Domain: bsimple
+Version: 1.0.0
+License: GNU General Public License v2 or later
+*/
+
+body {
+  font-family: sans-serif;
+  background: #fff;
+  color: #000;
+  font-size: 1.6rem;
+  line-height: 2.8rem;
+}
+
+.content_container {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 180px;
+}
+
+.title {
+  text-align: center;
+  a:link, a:visited, a:hover, a:active {
+    font-size: 4.5rem;
+    color: #000;
+    text-decoration: none;
+  }
+}
+
+.headline {
+ text-align: center;
+}
+
+.header_container {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 30px;
+}
+.blog-posts {
+  margin-top: 60px;
+}
+
+.get_mashup_button {
+  background-color: #ff9400;
+  height: 80px;
+  font-size: 2.4rem;
+  padding: 0 48px;
+  border: none;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+display: block;
+margin: 0 auto;
+}
+
+.masher_link:link, .masher_link:visited, .masher_link:hover, .masher_link:active {
+text-decoration: none;
+}

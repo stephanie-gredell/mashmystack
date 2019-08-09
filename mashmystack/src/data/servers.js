@@ -1,4 +1,4 @@
-[{
+export default [{
   "name": "Django (Python)",
   "url": "https://www.djangoproject.com/"
 },
